@@ -1,57 +1,124 @@
+ <div align="center">
 
-# Hi, I'm Rohit Kumar 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header&text=ROHIT%20KUMAR&fontSize=48&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20DELHI%2C%20INDIA&descSize=16&descAlignY=65&descColor=C9D1D9" width="100%"/>
 
-### Software Developer | Delhi, India
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Development;Backend+%26+Database+Solutions;Application+Development;Building+Practical+Technology" />
 
-I am a Software Developer interested in building practical software solutions, backend systems, database-driven applications, and Android applications.
-
----
-
-### 🛠️ Tools & Technologies
-
-**Development Tools**
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
-</p>
-
-**Backend Development**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-</p>
-
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 💻 Areas of Interest
+## ABOUT
 
-- Backend Development
-- Database Management
-- Web Application Development
-- Android Application Development
-- Business Software & ERP Solutions
+Software Developer focused on building practical applications, backend systems, database-driven solutions and business software.
 
----
+I enjoy working with modern development tools, designing database structures and developing applications that solve real-world problems.
 
-### 📂 Projects
-
-I use GitHub to maintain my development projects, experiments, and software solutions.
-
-[Explore my repositories](https://github.com/rohit8676)
+**Location:** Delhi, India  
+**Role:** Software Developer
 
 ---
 
-### 📫 Connect With Me
+## TECHNOLOGY STACK
 
-- **GitHub:** [rohit8676](https://github.com/rohit8676)
-- **Location:** Delhi, India
+### Development Environments
+
+<div align="center">
+
+<a href="https://visualstudio.microsoft.com/">
+<img src="https://skillicons.dev/icons?i=visualstudio" height="55" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://developer.android.com/studio">
+<img src="https://skillicons.dev/icons?i=androidstudio" height="55" />
+</a>
+
+<br/>
+Visual Studio &nbsp;&nbsp; Android Studio
+
+</div>
+
+### Backend Development
+
+<div align="center">
+
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/">
+<img src="https://skillicons.dev/icons?i=dotnet" height="55"/>
+</a>
+
+<br/>
+Node.js &nbsp;&nbsp; .NET
+
+</div>
+
+### Database Technologies
+
+<div align="center">
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="32"/>
+</a>
+
+<br/>
+MySQL &nbsp;&nbsp; Microsoft SQL Server
+
+</div>
 
 ---
 
-*Building practical software solutions through technology and continuous learning.*
+## DEVELOPMENT INTERESTS
+
+<div align="center">
+
+| Backend Systems | Database Design |
+|:---:|:---:|
+| Application Development | Business Software |
+| Android Development | API Development |
+
+</div>
+
+---
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohit8676&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit8676&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohit8676&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+## CONNECT
+
+<div align="center">
+
+<a href="https://github.com/rohit8676">
+<img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rohit8676&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+**SOFTWARE DEVELOPMENT · DATABASES · TECHNOLOGY**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%"/>
