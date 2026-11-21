@@ -48,7 +48,7 @@ I enjoy working with modern development tools, designing database structures and
 <b>MySQL</b>
 </td>
 <td align="center" width="16%">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjY7jpbHcBRIldF19PofKTep2aK2uBVxlns-tA3IC73A&s=10" height="30"/><br/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjY7jpbHcBRIldF19PofKTep2aK2uBVxlns-tA3IC73A&s=10" height="55"/><br/>
 <b>SQL Server</b>
 </td>
 </tr>
