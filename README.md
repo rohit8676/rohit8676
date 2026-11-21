@@ -21,56 +21,42 @@ I enjoy working with modern development tools, designing database structures and
 
 ## TECHNOLOGY STACK
 
-### Development Environments
+## TECHNOLOGY STACK
 
 <div align="center">
 
-<a href="https://visualstudio.microsoft.com/">
-<img src="https://skillicons.dev/icons?i=visualstudio" height="55" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://developer.android.com/studio">
-<img src="https://skillicons.dev/icons?i=androidstudio" height="55" />
-</a>
-
-<br/>
-Visual Studio &nbsp;&nbsp; Android Studio
-
-</div>
-
-### Backend Development
-
-<div align="center">
-
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dotnet.microsoft.com/">
-<img src="https://skillicons.dev/icons?i=dotnet" height="55"/>
-</a>
-
-<br/>
-Node.js &nbsp;&nbsp; .NET
-
-</div>
-
-### Database Technologies
-
-<div align="center">
-
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.microsoft.com/en-us/sql-server">
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="32"/>
-</a>
-
-<br/>
-MySQL &nbsp;&nbsp; Microsoft SQL Server
+<table>
+<tr>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=visualstudio" width="55"/><br/>
+<b>Visual Studio</b>
+</td>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="55"/><br/>
+<b>Android Studio</b>
+</td>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br/>
+<b>Node.js</b>
+</td>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=dotnet" width="55"/><br/>
+<b>.NET</b>
+</td>
+<td align="center" width="16%">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br/>
+<b>MySQL</b>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/SQL-Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="30"/><br/>
+<b>SQL Server</b>
+</td>
+</tr>
+</table>
 
 </div>
+
+---
 
 ---
 
