@@ -19,7 +19,7 @@ I enjoy working with modern development tools, designing database structures and
 
 ---
 
-## TECHNOLOGY STACK
+
 
 ## TECHNOLOGY STACK
 
